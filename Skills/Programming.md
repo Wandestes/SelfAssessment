@@ -1,73 +1,72 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value - used
+  - identifier - used 
+  - constant - explained
+  - scalar - heard
+  - literal - heard
+  - expression - used
+  - heap - heard
+  - function - used
+  - procedure - heard
+  - method - heard
+  - class - known
+  - prototype - heard
+  - event - heard
+  - type - used
+  - primitive types - used
+  - reference types - heard
+  - flag - used
+  - lexical scope - used
+  - code block - heard
+  - conditions - used
+  - loops - used
+  - assignment - used
+  - regular expression - heard
+  - interface - heard
+  - contract - heard
+  - module -heard
+  - call stack - heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
+  - signature - heard
+  - argument - used
+  - parameter -used
+  - pure function - used
+  - lambda expression - used
+  - side effects - used
+  - closure 
   - partial application
   - curry
-  - higher order
-  - recursion
-  - callback
+  - higher order - used
+  - recursion - heard
+  - callback - used
   - listener
-  - compose
+  - compose - used
   - pipe
-  - memoize
+  - memoize - heard
   - wrapper
   - functor
   - monad
   - monoid
-  - generator
+  - generator -used
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array - used
+  - structure - used
   - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
+  - enum - used
+  - instance - used
+  - object - used
+  - class -used
+  - collection -used
+  - set - used
+  - hash table - heard
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue - used
   - stack
   - deque
   - tree
@@ -78,29 +77,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler - heard
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger - used
   - garbage collection
   - refactoring
-  - code review
-  - antipatterns
+  - code review - used
+  - antipatterns - heard
   - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
+  - algorithm -used
+  - magic numbers - used
+  - hardcode - used
+  - complexity - heard
+  - decomposition - heard
   - spaghetti
   - silver bullet
   - not invented here
   - dead code
   - unreachable code
-  - duplicate code
+  - duplicate code - used
   - exception
-  - return early
+  - return early - used
   - unittest
-  - git
-  - github
+  - git - used
+  - github - used
