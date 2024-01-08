@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object - used
+  - Object
   - this
   - arrow function
   - async function
@@ -13,7 +13,7 @@
   - ...rest
   - typeof
   - destructuring
-  - generator - used
+  - generator 
   - iterator
   - async generator
   - async iterator
@@ -22,7 +22,7 @@
   - IIFE
   - global
   - globalThis
-  - window - used
+  - window 
   - getters and setters
   - __proto__
   - prototype
@@ -30,56 +30,56 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void - used
+  - void 
   - yield
   - await
   - template literal
   - strict mode
-  - delete -used
+  - delete 
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if - used
-  - while - used
-  - do..while - used
-  - for -used
-  - for..in - heard
+  - if 
+  - while 
+  - do..while 
+  - for 
+  - for..in 
   - for..of 
   - for await
-  - throw - heard
-  - break - used
-  - continue - used
-  - import - used
-  - export - heard
-  - label - used
-  - try..catch - heard
-  - switch - used
-  - class - used
+  - throw 
+  - break 
+  - continue 
+  - import 
+  - export 
+  - label 
+  - try..catch 
+  - switch 
+  - class 
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return -used
+  - return 
   - default parameters 
   - functional object
 - Data structures
-  - Array - used
+  - Array 
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
   - undefined
-  - null - used 
+  - null  
   - Proxy
   - weak collections
-  - timers - used
+  - timers 
   - EventEmitter
   - RegExp
-  - Date - used
+  - Date   
   - BigInt
 - Infrastructure
   - V8
